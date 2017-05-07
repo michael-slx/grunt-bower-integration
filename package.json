@@ -1,0 +1,44 @@
+{
+  "name": "grunt-bower-integration",
+  "description": "Installs bower components without a bower.json file",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": {
+    "name": "Michael Schantl",
+    "email": "michael@schantl-lx.at"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "^1.0",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "jshint": "^2.9.4",
+    "nodeunit": "^0.11.0"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "bower": "^1.8.0",
+    "grunt": "^1.0"
+  }
+}
