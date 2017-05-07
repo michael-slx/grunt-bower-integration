@@ -73,4 +73,6 @@ grunt.initConfig({
 If you have any suggestions, find bugs or want to propose additional features, feel free to post a issue on the issue tracker. Help in form of forks & PRs is appreciated. In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality.  <del>Lint</del><ins>(currently not working)</ins> and test your code using [Grunt](http://gruntjs.com/).
 
 ## Release History
-_(Nothing yet)_
+### Version 0.1.0 _(released on 07-05-2017)_
+
+- Initial release
