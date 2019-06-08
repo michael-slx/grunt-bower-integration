@@ -1,3 +1,9 @@
+# Why this plug-in is no longer maintained ...
+
+Although Bower continues to be actively developed, its developers recommend using [**Yarn**](https://yarnpkg.com/) instead. [The background to this decision is explained on the Bower website.](https://bower.io/blog/2017/how-to-migrate-away-from-bower/)
+For this reason, this plug-in is **no longer being maintained**.
+Instead, manually install required front-end components with **Yarn** and then process them as usual with Grunt.
+
 # grunt-bower-integration
 
 > Installs bower components without a bower.json file
